@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my relatively new personal homepage. I use it mainly to present my newest research, share slides of talks and maintain a list of links to all R and Stata programs that were used in my publications (see Replication Files). 
+Welcome to my new, and still unfinished, personal homepage. I use it mainly to present my newest research, share slides of talks and maintain a list of links to all R and Stata programs that were used in my publications (see Replication Files).
+
 
 <!-- I am also planning to shared interesting research findings that I found while doing research but never quite made it to a full publication.
  -->
