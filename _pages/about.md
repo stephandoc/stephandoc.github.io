@@ -17,6 +17,8 @@ Research Topics
 ======
 My research covers several areas within political sociology and sociology of education:
 - Potential effects of ethnic "diversity" on social cohesion
+- Opinion polarization
+- Family socialization of political attitudes
 - The role of educational aspirations in educational inequalities
 
 Methods Focus
