@@ -12,6 +12,7 @@ Welcome to my new, and still unfinished, personal homepage. I use it mainly to p
 
 <!-- I am also planning to shared interesting research findings that I found while doing research but never quite made it to a full publication.
  -->
+
 Research Topics
 ======
 My research covers several areas within political sociology and sociology of education:
