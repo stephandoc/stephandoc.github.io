@@ -7,7 +7,7 @@ author_profile: true
 
 
 # List of publications
-<div class="wordwrap">Link to <a href="{{https://stephandoc.github.io/files/lop.pdf}}">list of publications</a>.</div>
+<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/lop.pdf">list of publications</a>.</div>
 
 
 # Google scholar
