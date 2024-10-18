@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-# List of publications
-<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/lop.pdf">list of publications</a>.</div>
+## List of publications
+<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/lop.pdf">list of publications</a>. It also includes links to the respective paper's replication material.</div>
 
 
-# Google scholar
+## Google scholar
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}

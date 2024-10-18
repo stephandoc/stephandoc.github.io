@@ -7,9 +7,11 @@ redirect_from:
   - /resume
 ---
 
+
+
+<!-- Education
 {% include base_path %}
 
-Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -44,4 +46,4 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->

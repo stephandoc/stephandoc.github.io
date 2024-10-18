@@ -4,10 +4,10 @@ main:
   - title: "News"
     url: /posts/
 
-  - title: "Publications"
+  - title: "Publications and Replication"
     url: /publications/
 
-  - title: "(Future) Talks/Conference Presentations"
+  - title: "(Future) Talks"
     url: /talks/
 
   - title: "Teaching"
@@ -15,6 +15,3 @@ main:
 
   - title: "CV"
     url: /cv/
-
-  - title: "Replication packages"
-    url: /repl/
