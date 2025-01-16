@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
+## CV
+Find my CV here:
 
+<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/cv.pdf">Current CV</a>. </div>
 
 <!-- Education
 {% include base_path %}
