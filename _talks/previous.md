@@ -9,7 +9,7 @@ location: "Various"
 ---
 
 
-## Previous talks
+
 
 A list of my previous talks and conference presentations can be found here:
 
