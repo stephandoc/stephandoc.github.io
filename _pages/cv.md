@@ -10,7 +10,7 @@ redirect_from:
 ## CV
 Find my CV here:
 
-<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/cv.pdf">Current CV</a>. </div>
+<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/cv.pdf">current CV</a>. </div>
 
 <!-- Education
 {% include base_path %}

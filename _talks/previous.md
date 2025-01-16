@@ -1,11 +1,11 @@
 ---
-title: "Previous teaching experiences"
-collection: teaching
+title: "Previous talks"
+collection: talks
 type: "Summary"
-permalink: /teaching/previous
-venue: ""
+permalink: /talks/previous
+venue: "Various"
 date: 2025-16--1
-location: ""
+location: "Various"
 ---
 
 
@@ -13,5 +13,5 @@ location: ""
 
 A list of my previous talks and conference presentations can be found here:
 
-<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/loc.pdf">List of conference presentation</a>. </div>
+<div class="wordwrap">Link to <a href="https://stephandoc.github.io/files/loc.pdf">list of conference presentation</a>. </div>
 
