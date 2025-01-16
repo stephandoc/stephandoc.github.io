@@ -4,7 +4,7 @@ collection: teaching
 type: "Summary"
 permalink: /teaching/previous
 venue: "Various"
-date: 2025-16-1
+date: 2025-01-16
 location: "Various"
 ---
 
