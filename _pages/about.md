@@ -11,8 +11,8 @@ Welcome to my new, and still unfinished, personal homepage. I will use it to pre
 
 Research Topics
 ======
-My research covers topics in political sociology and the sociology of education:
-- Ethnic "diversity" and its relation to social cohesion
+My research covers the topic of social cohesion from different angles:
+- Ethnic "diversity" and its relation to neighborhood cohesion
 - Opinion polarization
 - Family socialization of political attitudes
 - Ethnic educational inequalities and educational aspirations
